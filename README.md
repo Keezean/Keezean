@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I go to San Francisco State University! 👍
+My favorite class has been Cell Biology! 🥱
+My hometown is my mother's womb! 👨‍👩‍👦
+My favorite language is R
+[More about me!](https://chemistry.sfsu.edu/faculty/esquerra "Surprise ;)")
